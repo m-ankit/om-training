@@ -16,9 +16,9 @@
     "%vlocity_namespace%__GlobalKey__c": "cb87b2e3-3b24-3347-c4a9-bd2dc354db66",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Billing",
-        "Name": "ProvisionToBilling",
+        "Name": "Update Billing",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/ProvisionToBilling/%vlocity_namespace%__OrchestrationPlanDefinition__c/Billing",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Update Billing/%vlocity_namespace%__OrchestrationPlanDefinition__c/Billing",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",

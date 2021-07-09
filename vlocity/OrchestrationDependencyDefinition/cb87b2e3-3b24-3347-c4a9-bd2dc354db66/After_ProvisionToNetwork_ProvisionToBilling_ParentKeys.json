@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/ProvisionToBilling_Billing",
     "OrchestrationItemDefinition/ProvisionToNetwork_Mobile Activation",
+    "OrchestrationItemDefinition/Update Billing_Billing",
     "OrchestrationPlanDefinition/Mobile Activation"
 ]
