@@ -1,0 +1,157 @@
+[
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "1472cd65-3346-c628-d38b-7894396aac94",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/1472cd65-3346-c628-d38b-7894396aac94",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "b4518835-1301-e7fd-e10f-2387f9782129",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"Monthly\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DemoBillingFrequency\",\"destination_attr_code\":\"DEMO_BILLING_FREQUENCY\"},{\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DemoBillingAmount\",\"destination_attr_code\":\"DEMO_BILLING_AMOUNT\",\"source_field_name\":\"%vlocity_namespace%__RecurringCharge__c\",\"source_type\":\"Field\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "0726a966-af9f-60c1-2204-1f73100650ee",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/0726a966-af9f-60c1-2204-1f73100650ee",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "0726a966-af9f-60c1-2204-1f73100650ee",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "Business Mobile EU to Recurring Charge",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Business Mobile EU to Recurring Charge/Product2/0726a966-af9f-60c1-2204-1f73100650ee"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "2a7f754e-f9ff-6760-a360-be7081d496d1",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/2a7f754e-f9ff-6760-a360-be7081d496d1",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "3956772a-bc81-cd6f-e75a-43e7e849374f",
+        "%vlocity_namespace%__MappingsData__c": "[{\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DemoBillingSubscriptionName\",\"destination_attr_code\":\"DemoBillingSubscriptionName\",\"source_field_name\":\"PricebookEntry.Product2.Name\",\"source_type\":\"Field\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "0726a966-af9f-60c1-2204-1f73100650ee",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/0726a966-af9f-60c1-2204-1f73100650ee",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "0726a966-af9f-60c1-2204-1f73100650ee",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "Business Mobile EU to Billing Package",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Business Mobile EU to Billing Package/Product2/0726a966-af9f-60c1-2204-1f73100650ee"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "3e7f497d-6bd3-bb92-51bb-ad789edff79d",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/3e7f497d-6bd3-bb92-51bb-ad789edff79d",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "829ccaa1-6401-6ce4-c579-9906ffd7df12",
+        "%vlocity_namespace%__MappingsData__c": "[{\"source_attr_name\":\"Mobile Minutes\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DemoNetworkMinutes\",\"destination_attr_code\":\"DemoNetworkMinutes\",\"source_attr_code\":\"ATTRIBUTE-013\",\"source_type\":\"Attribute\"},{\"source_attr_name\":\"Mobile Messages\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DemoNetworkMinutes\",\"destination_attr_code\":\"DemoNetworkMinutes\",\"source_attr_code\":\"ATTRIBUTE-015\",\"source_type\":\"Attribute\"},{\"value\":\"Limited National\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DemoRoamingProfile\",\"destination_attr_code\":\"DemoRoamingProfile\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "0726a966-af9f-60c1-2204-1f73100650ee",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/0726a966-af9f-60c1-2204-1f73100650ee",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "0726a966-af9f-60c1-2204-1f73100650ee",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "Business Mobile EU to Mobile Settings",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Business Mobile EU to Mobile Settings/Product2/0726a966-af9f-60c1-2204-1f73100650ee"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "6dee440d-5a9e-f871-9993-50d2f37e5646",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/6dee440d-5a9e-f871-9993-50d2f37e5646",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "034333c5-9c77-e881-3040-dd18052d643f",
+        "%vlocity_namespace%__MappingsData__c": "[{\"source_type\":\"Field\",\"source_field_name\":\"Order.Account.Name\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DemoBillingAccount\",\"destination_attr_code\":\"DEMO_BILLING_ACCOUNT\"},{\"value\":\"DUMMY-BA\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DemoBillingAccountId\",\"destination_attr_code\":\"DemoBillingAccountId\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "0726a966-af9f-60c1-2204-1f73100650ee",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/0726a966-af9f-60c1-2204-1f73100650ee",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "0726a966-af9f-60c1-2204-1f73100650ee",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "Business Mobile EU to Billing Account",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Business Mobile EU to Billing Account/Product2/0726a966-af9f-60c1-2204-1f73100650ee"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "94c05e22-d3be-e4c0-ca7a-a18810f248e6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/94c05e22-d3be-e4c0-ca7a-a18810f248e6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "b8df3bf6-f4b1-83f9-ff73-0516b8c64622",
+        "%vlocity_namespace%__MappingsData__c": "[{\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DemoSubscriptionName\",\"destination_attr_code\":\"DemoBillingSubscriptionName\",\"source_field_name\":\"PricebookEntry.Product2.Name\",\"source_type\":\"Field\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "0726a966-af9f-60c1-2204-1f73100650ee",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/0726a966-af9f-60c1-2204-1f73100650ee",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "0726a966-af9f-60c1-2204-1f73100650ee",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "Business Mobile EU to Mobile Provisioning",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Business Mobile EU to Mobile Provisioning/Product2/0726a966-af9f-60c1-2204-1f73100650ee"
+    }
+]

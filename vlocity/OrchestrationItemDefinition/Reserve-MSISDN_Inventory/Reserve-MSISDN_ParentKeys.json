@@ -1,0 +1,6 @@
+[
+    "OrchestrationPlanDefinition/Inventory",
+    "OrchestrationPlanDefinition/Reservation Amend",
+    "OrchestrationPlanDefinition/Reserve MSISDN Rollback",
+    "System/TestServer"
+]

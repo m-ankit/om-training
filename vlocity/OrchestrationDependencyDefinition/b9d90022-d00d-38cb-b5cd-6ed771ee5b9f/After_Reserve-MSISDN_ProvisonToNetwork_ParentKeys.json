@@ -1,0 +1,5 @@
+[
+    "OrchestrationItemDefinition/ProvisionToNetwork_Mobile Activation",
+    "OrchestrationItemDefinition/Reserve MSISDN_Inventory",
+    "OrchestrationPlanDefinition/Inventory"
+]

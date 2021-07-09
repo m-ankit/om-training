@@ -1,0 +1,5 @@
+[
+    "OrchestrationItemDefinition/Reserve MSISDN - Amend_Reservation Amend",
+    "OrchestrationItemDefinition/UnReserve MSISDN - Amend_Reservation Amend",
+    "OrchestrationPlanDefinition/Reservation Amend"
+]

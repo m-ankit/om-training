@@ -1,0 +1,5 @@
+[
+    "OrchestrationItemDefinition/Mark as Delivered_Inventory",
+    "OrchestrationItemDefinition/Reserve MSISDN_Inventory",
+    "OrchestrationPlanDefinition/Inventory"
+]

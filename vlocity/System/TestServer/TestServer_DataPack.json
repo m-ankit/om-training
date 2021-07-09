@@ -1,0 +1,11 @@
+{
+    "%vlocity_namespace%__GlobalKey__c": "60ef4aaf-1770-3543-81aa-55d5b113347c",
+    "%vlocity_namespace%__SystemInterface__c": "TestServer_SystemInterfaces.json",
+    "%vlocity_namespace%__URL__c": "callout:TestCredential",
+    "Image__c": "",
+    "Name": "TestServer",
+    "Online__c": true,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__System__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__System__c/TestServer"
+}

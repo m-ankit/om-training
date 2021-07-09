@@ -1,0 +1,11 @@
+{
+    "%vlocity_namespace%__GlobalKey__c": "f04531d0-8987-0c6f-2aca-6e3e6921ac9c",
+    "%vlocity_namespace%__SystemInterface__c": "SalesforceIP_SystemInterfaces.json",
+    "%vlocity_namespace%__URL__c": "https://dummy.com",
+    "Image__c": "",
+    "Name": "SalesforceIP",
+    "Online__c": true,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__System__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__System__c/SalesforceIP"
+}

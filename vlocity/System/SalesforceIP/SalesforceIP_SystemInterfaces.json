@@ -1,0 +1,19 @@
+[
+    {
+        "%vlocity_namespace%__GlobalKey__c": "9d1552fe-e685-6173-fd60-927c9833ef8f",
+        "%vlocity_namespace%__Implementation__c": "IntegrationProcedureSystemInterface",
+        "%vlocity_namespace%__Key__c": "SalesforceIP:SampleIP",
+        "%vlocity_namespace%__Path__c": "om_sampleIP",
+        "%vlocity_namespace%__SystemId__c": {
+            "Name": "SalesforceIP",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__System__c/SalesforceIP",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__System__c"
+        },
+        "%vlocity_namespace%__SystemId__r.Name": "SalesforceIP",
+        "Name": "SampleIP",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__SystemInterface__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__SystemInterface__c/SampleIP/%vlocity_namespace%__System__c/SalesforceIP"
+    }
+]

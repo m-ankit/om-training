@@ -1,0 +1,5 @@
+[
+    "OrchestrationItemDefinition/ProvisionToBilling_Billing",
+    "OrchestrationItemDefinition/UpdateBillingAccountId_MaintainBillingAccount",
+    "OrchestrationPlanDefinition/MaintainBillingAccount"
+]

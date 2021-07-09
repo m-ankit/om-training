@@ -1,0 +1,138 @@
+[
+    {
+        "%vlocity_namespace%__GlobalKey__c": "0c655904-7a53-982c-f9a6-bf1465ca22c7",
+        "%vlocity_namespace%__Implementation__c": "DefaultSystemInterface",
+        "%vlocity_namespace%__Key__c": "TestServer:Deprovision Network",
+        "%vlocity_namespace%__Path__c": "/network/deprovision",
+        "%vlocity_namespace%__SystemId__c": {
+            "Name": "TestServer",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__System__c/TestServer",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__System__c"
+        },
+        "%vlocity_namespace%__SystemId__r.Name": "TestServer",
+        "Name": "Deprovision Network",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__SystemInterface__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__SystemInterface__c/Deprovision Network/%vlocity_namespace%__System__c/TestServer"
+    },
+    {
+        "%vlocity_namespace%__GlobalKey__c": "4486192e-8977-0d2e-67fb-80f3267b8647",
+        "%vlocity_namespace%__Implementation__c": "EnhancedResponseInterface",
+        "%vlocity_namespace%__Key__c": "TestServer:BillingAccount",
+        "%vlocity_namespace%__Path__c": "/billingAccount",
+        "%vlocity_namespace%__SystemId__c": {
+            "Name": "TestServer",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__System__c/TestServer",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__System__c"
+        },
+        "%vlocity_namespace%__SystemId__r.Name": "TestServer",
+        "Name": "BillingAccount",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__SystemInterface__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__SystemInterface__c/BillingAccount/%vlocity_namespace%__System__c/TestServer"
+    },
+    {
+        "%vlocity_namespace%__GlobalKey__c": "5ef82bba-b88e-0cd5-4551-61910d0d3d5c",
+        "%vlocity_namespace%__Implementation__c": "DefaultSystemInterface",
+        "%vlocity_namespace%__Key__c": "TestServer:Unreserve MSISDN",
+        "%vlocity_namespace%__Path__c": "/unreserve",
+        "%vlocity_namespace%__SystemId__c": {
+            "Name": "TestServer",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__System__c/TestServer",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__System__c"
+        },
+        "%vlocity_namespace%__SystemId__r.Name": "TestServer",
+        "Name": "Unreserve MSISDN",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__SystemInterface__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__SystemInterface__c/Unreserve MSISDN/%vlocity_namespace%__System__c/TestServer"
+    },
+    {
+        "%vlocity_namespace%__GlobalKey__c": "74e5df56-f1e9-d23c-a751-86d2c9bb7f0c",
+        "%vlocity_namespace%__Implementation__c": "DefaultSystemInterface",
+        "%vlocity_namespace%__Key__c": "TestServer:Installation",
+        "%vlocity_namespace%__Path__c": "/installation",
+        "%vlocity_namespace%__SystemId__c": {
+            "Name": "TestServer",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__System__c/TestServer",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__System__c"
+        },
+        "%vlocity_namespace%__SystemId__r.Name": "TestServer",
+        "Name": "Installation",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__SystemInterface__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__SystemInterface__c/Installation/%vlocity_namespace%__System__c/TestServer"
+    },
+    {
+        "%vlocity_namespace%__GlobalKey__c": "78500674-bcd2-77d8-e76c-247aa312c870",
+        "%vlocity_namespace%__Implementation__c": "DefaultSystemInterface",
+        "%vlocity_namespace%__Key__c": "TestServer:Reserve MSISDN",
+        "%vlocity_namespace%__Path__c": "/reserveMSISDN",
+        "%vlocity_namespace%__SystemId__c": {
+            "Name": "TestServer",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__System__c/TestServer",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__System__c"
+        },
+        "%vlocity_namespace%__SystemId__r.Name": "TestServer",
+        "Name": "Reserve MSISDN",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__SystemInterface__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__SystemInterface__c/Reserve MSISDN/%vlocity_namespace%__System__c/TestServer"
+    },
+    {
+        "%vlocity_namespace%__GlobalKey__c": "91c2f93a-55d2-5c2c-1bfe-1d9a77a0de73",
+        "%vlocity_namespace%__Implementation__c": "XOMAsyncSystemInterface",
+        "%vlocity_namespace%__Key__c": "TestServer:Billing",
+        "%vlocity_namespace%__Path__c": "/billing",
+        "%vlocity_namespace%__SystemId__c": {
+            "Name": "TestServer",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__System__c/TestServer",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__System__c"
+        },
+        "%vlocity_namespace%__SystemId__r.Name": "TestServer",
+        "Name": "Billing",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__SystemInterface__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__SystemInterface__c/Billing/%vlocity_namespace%__System__c/TestServer"
+    },
+    {
+        "%vlocity_namespace%__GlobalKey__c": "df41e2d9-d50b-0bcb-3923-2037817a1ab7",
+        "%vlocity_namespace%__Implementation__c": "DefaultSystemInterface",
+        "%vlocity_namespace%__Key__c": "TestServer:NetworkAmend",
+        "%vlocity_namespace%__Path__c": "/network/amend",
+        "%vlocity_namespace%__SystemId__c": {
+            "Name": "TestServer",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__System__c/TestServer",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__System__c"
+        },
+        "%vlocity_namespace%__SystemId__r.Name": "TestServer",
+        "Name": "NetworkAmend",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__SystemInterface__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__SystemInterface__c/NetworkAmend/%vlocity_namespace%__System__c/TestServer"
+    },
+    {
+        "%vlocity_namespace%__GlobalKey__c": "dfe62ffb-d168-0987-e776-411f4c258602",
+        "%vlocity_namespace%__Implementation__c": "XOMAsyncSystemInterface",
+        "%vlocity_namespace%__Key__c": "TestServer:Network",
+        "%vlocity_namespace%__Path__c": "/network",
+        "%vlocity_namespace%__SystemId__c": {
+            "Name": "TestServer",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__System__c/TestServer",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__System__c"
+        },
+        "%vlocity_namespace%__SystemId__r.Name": "TestServer",
+        "Name": "Network",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__SystemInterface__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__SystemInterface__c/Network/%vlocity_namespace%__System__c/TestServer"
+    }
+]
