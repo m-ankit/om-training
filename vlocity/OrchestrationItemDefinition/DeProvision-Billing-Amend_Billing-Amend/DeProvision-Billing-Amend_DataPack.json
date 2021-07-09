@@ -46,12 +46,7 @@
     "%vlocity_namespace%__TimeoutMs__c": "",
     "%vlocity_namespace%__VlocityDataRaptorBundleId__c": "",
     "%vlocity_namespace%__itemImplementationId__c": "",
-    "%vlocity_namespace%__manualQueueId__c": {
-        "Name": "Manual Queue 1",
-        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ManualQueue__c/Manual Queue 1",
-        "VlocityRecordSObjectType": "%vlocity_namespace%__ManualQueue__c"
-    },
+    "%vlocity_namespace%__manualQueueId__c": "",
     "Message_Content__c": "",
     "Name": "DeProvision Billing - Amend",
     "RecordTypeId": {
