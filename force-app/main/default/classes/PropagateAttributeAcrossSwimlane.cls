@@ -1,4 +1,4 @@
-global with sharing class PropogateAttributeAcrossSwimlane implements vlocity_cmt.XOMOrchestrationInterfaces.IAutoTask {
+global with sharing class PropagateAttributeAcrossSwimlane implements vlocity_cmt.XOMOrchestrationInterfaces.IAutoTask {
     global static void executeBatch(List<vlocity_cmt__OrchestrationItem__c> items) {
         Set<Id> planIds = new Set<Id>();
         Set<Id> orchItemDefIds = new Set<Id>();
