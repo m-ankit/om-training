@@ -46,9 +46,9 @@
     "%vlocity_namespace%__TimeoutMs__c": "",
     "%vlocity_namespace%__VlocityDataRaptorBundleId__c": "",
     "%vlocity_namespace%__itemImplementationId__c": {
-        "Name": "PropogateAttributeAcrossSwimlane",
+        "Name": "PropagateAttributeAcrossSwimlane",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ItemImplementation__c/PropogateAttributeAcrossSwimlane",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ItemImplementation__c/PropagateAttributeAcrossSwimlane",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ItemImplementation__c"
     },
     "%vlocity_namespace%__manualQueueId__c": "",
