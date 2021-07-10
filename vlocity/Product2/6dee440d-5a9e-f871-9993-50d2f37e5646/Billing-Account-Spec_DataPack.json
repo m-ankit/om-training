@@ -32,7 +32,7 @@
         "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
     },
     "%vlocity_namespace%__ObjectTypeName__c": "BillingAccount",
-    "%vlocity_namespace%__OrchestrationScenario__c": "Billing-Account-Spec_OrchestrationScenarios.json",
+    "%vlocity_namespace%__OrchestrationScenario__c": "",
     "%vlocity_namespace%__ParentClassId__c": "",
     "%vlocity_namespace%__ProductChildItem__c": "Billing-Account-Spec_ProductChildItems.json",
     "%vlocity_namespace%__ProductSpecId__c": "",
