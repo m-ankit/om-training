@@ -1,9 +1,9 @@
 {
     "%vlocity_namespace%__DependencyItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Reservation Amend",
-        "Name": "UnReserve MSISDN - Amend",
+        "Name": "CO-UnReserve MSISDN - Amend",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/UnReserve MSISDN - Amend/%vlocity_namespace%__OrchestrationPlanDefinition__c/Reservation Amend",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CO-UnReserve MSISDN - Amend/%vlocity_namespace%__OrchestrationPlanDefinition__c/Reservation Amend",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -16,9 +16,9 @@
     "%vlocity_namespace%__GlobalKey__c": "6d8e9c9e-b003-1825-9c23-9b2479ee5d90",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Reservation Amend",
-        "Name": "Reserve MSISDN - Amend",
+        "Name": "CO-Reserve MSISDN - Amend",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Reserve MSISDN - Amend/%vlocity_namespace%__OrchestrationPlanDefinition__c/Reservation Amend",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CO-Reserve MSISDN - Amend/%vlocity_namespace%__OrchestrationPlanDefinition__c/Reservation Amend",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",

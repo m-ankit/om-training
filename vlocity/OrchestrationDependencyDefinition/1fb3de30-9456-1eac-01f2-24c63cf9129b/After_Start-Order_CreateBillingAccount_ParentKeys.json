@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/CreateBillingAccount_MaintainBillingAccount",
-    "OrchestrationItemDefinition/Start Order_Order Journey",
+    "OrchestrationItemDefinition/CO-CreateBillingAccount_MaintainBillingAccount",
+    "OrchestrationItemDefinition/MS-Start Order_Order Journey",
     "OrchestrationPlanDefinition/Order Journey"
 ]

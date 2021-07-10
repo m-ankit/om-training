@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/ProvisionToNetwork_Mobile Activation",
-    "OrchestrationItemDefinition/Reserve MSISDN_Inventory",
+    "OrchestrationItemDefinition/CO-ProvisionToNetwork_Mobile Activation",
+    "OrchestrationItemDefinition/CO-Reserve MSISDN_Inventory",
     "OrchestrationPlanDefinition/Inventory"
 ]

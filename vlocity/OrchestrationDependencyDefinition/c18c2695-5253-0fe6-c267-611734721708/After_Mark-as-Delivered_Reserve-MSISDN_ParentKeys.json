@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/Mark as Delivered_Inventory",
-    "OrchestrationItemDefinition/Reserve MSISDN_Inventory",
+    "OrchestrationItemDefinition/CO-Reserve MSISDN_Inventory",
+    "OrchestrationItemDefinition/MT-Mark as Delivered_Inventory",
     "OrchestrationPlanDefinition/Inventory"
 ]

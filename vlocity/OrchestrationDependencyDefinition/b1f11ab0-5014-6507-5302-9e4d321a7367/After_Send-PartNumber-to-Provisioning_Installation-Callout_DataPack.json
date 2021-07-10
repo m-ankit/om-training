@@ -1,9 +1,9 @@
 {
     "%vlocity_namespace%__DependencyItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "ERP",
-        "Name": "Send PartNumber to Provisioning",
+        "Name": "AT-Send PartNumber to Provisioning",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Send PartNumber to Provisioning/%vlocity_namespace%__OrchestrationPlanDefinition__c/ERP",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/AT-Send PartNumber to Provisioning/%vlocity_namespace%__OrchestrationPlanDefinition__c/ERP",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -16,9 +16,9 @@
     "%vlocity_namespace%__GlobalKey__c": "b1f11ab0-5014-6507-5302-9e4d321a7367",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Internet Installation",
-        "Name": "Installation Callout",
+        "Name": "CO-Installation Callout",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Installation Callout/%vlocity_namespace%__OrchestrationPlanDefinition__c/Internet Installation",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CO-Installation Callout/%vlocity_namespace%__OrchestrationPlanDefinition__c/Internet Installation",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",

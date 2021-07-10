@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/Assetize Order_Order Journey",
-    "OrchestrationItemDefinition/Wait for Billing_Billing",
+    "OrchestrationItemDefinition/AT-Assetize Order_Order Journey",
+    "OrchestrationItemDefinition/PE-Wait for Billing_Billing",
     "OrchestrationPlanDefinition/Billing"
 ]

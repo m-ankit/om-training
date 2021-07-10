@@ -1,9 +1,9 @@
 {
     "%vlocity_namespace%__DependencyItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "MaintainBillingAccount",
-        "Name": "CreateBillingAccount",
+        "Name": "CO-CreateBillingAccount",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CreateBillingAccount/%vlocity_namespace%__OrchestrationPlanDefinition__c/MaintainBillingAccount",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CO-CreateBillingAccount/%vlocity_namespace%__OrchestrationPlanDefinition__c/MaintainBillingAccount",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -16,9 +16,9 @@
     "%vlocity_namespace%__GlobalKey__c": "d4b8e85b-234b-b1e7-f243-44b4b1cbca3a",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "MaintainBillingAccount",
-        "Name": "UpdateBillingAccountId",
+        "Name": "AT-UpdateBillingAccountId",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/UpdateBillingAccountId/%vlocity_namespace%__OrchestrationPlanDefinition__c/MaintainBillingAccount",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/AT-UpdateBillingAccountId/%vlocity_namespace%__OrchestrationPlanDefinition__c/MaintainBillingAccount",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",

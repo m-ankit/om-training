@@ -1,9 +1,9 @@
 {
     "%vlocity_namespace%__DependencyItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Inventory",
-        "Name": "Reserve MSISDN",
+        "Name": "CO-Reserve MSISDN",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Reserve MSISDN/%vlocity_namespace%__OrchestrationPlanDefinition__c/Inventory",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CO-Reserve MSISDN/%vlocity_namespace%__OrchestrationPlanDefinition__c/Inventory",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -16,9 +16,9 @@
     "%vlocity_namespace%__GlobalKey__c": "b9d90022-d00d-38cb-b5cd-6ed771ee5b9f",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Mobile Activation",
-        "Name": "ProvisionToNetwork",
+        "Name": "CO-ProvisionToNetwork",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/ProvisionToNetwork/%vlocity_namespace%__OrchestrationPlanDefinition__c/Mobile Activation",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CO-ProvisionToNetwork/%vlocity_namespace%__OrchestrationPlanDefinition__c/Mobile Activation",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",

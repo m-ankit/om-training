@@ -1,9 +1,9 @@
 {
     "%vlocity_namespace%__DependencyItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Order Journey",
-        "Name": "Start Order",
+        "Name": "MS-Start Order",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Start Order/%vlocity_namespace%__OrchestrationPlanDefinition__c/Order Journey",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/MS-Start Order/%vlocity_namespace%__OrchestrationPlanDefinition__c/Order Journey",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -16,9 +16,9 @@
     "%vlocity_namespace%__GlobalKey__c": "1fb3de30-9456-1eac-01f2-24c63cf9129b",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "MaintainBillingAccount",
-        "Name": "CreateBillingAccount",
+        "Name": "CO-CreateBillingAccount",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CreateBillingAccount/%vlocity_namespace%__OrchestrationPlanDefinition__c/MaintainBillingAccount",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CO-CreateBillingAccount/%vlocity_namespace%__OrchestrationPlanDefinition__c/MaintainBillingAccount",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",

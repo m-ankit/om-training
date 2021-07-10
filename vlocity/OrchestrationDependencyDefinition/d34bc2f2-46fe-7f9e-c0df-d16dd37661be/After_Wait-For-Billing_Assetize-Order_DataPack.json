@@ -1,9 +1,9 @@
 {
     "%vlocity_namespace%__DependencyItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Billing",
-        "Name": "Wait for Billing",
+        "Name": "PE-Wait for Billing",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Wait for Billing/%vlocity_namespace%__OrchestrationPlanDefinition__c/Billing",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/PE-Wait for Billing/%vlocity_namespace%__OrchestrationPlanDefinition__c/Billing",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -16,9 +16,9 @@
     "%vlocity_namespace%__GlobalKey__c": "d34bc2f2-46fe-7f9e-c0df-d16dd37661be",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Order Journey",
-        "Name": "Assetize Order",
+        "Name": "AT-Assetize Order",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Assetize Order/%vlocity_namespace%__OrchestrationPlanDefinition__c/Order Journey",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/AT-Assetize Order/%vlocity_namespace%__OrchestrationPlanDefinition__c/Order Journey",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",

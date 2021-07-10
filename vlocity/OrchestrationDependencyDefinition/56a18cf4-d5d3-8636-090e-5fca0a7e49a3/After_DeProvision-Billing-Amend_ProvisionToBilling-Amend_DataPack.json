@@ -1,9 +1,9 @@
 {
     "%vlocity_namespace%__DependencyItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Billing-Amend",
-        "Name": "DeProvision Billing - Amend",
+        "Name": "MT-DeProvision Billing - Amend",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/DeProvision Billing - Amend/%vlocity_namespace%__OrchestrationPlanDefinition__c/Billing-Amend",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/MT-DeProvision Billing - Amend/%vlocity_namespace%__OrchestrationPlanDefinition__c/Billing-Amend",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -16,9 +16,9 @@
     "%vlocity_namespace%__GlobalKey__c": "56a18cf4-d5d3-8636-090e-5fca0a7e49a3",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Billing-Amend",
-        "Name": "ProvisionToBilling - Amend",
+        "Name": "CO-ProvisionToBilling - Amend",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/ProvisionToBilling - Amend/%vlocity_namespace%__OrchestrationPlanDefinition__c/Billing-Amend",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CO-ProvisionToBilling - Amend/%vlocity_namespace%__OrchestrationPlanDefinition__c/Billing-Amend",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",

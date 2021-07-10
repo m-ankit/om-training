@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/DeProvision Billing - Amend_Billing-Amend",
-    "OrchestrationItemDefinition/ProvisionToBilling - Amend_Billing-Amend",
+    "OrchestrationItemDefinition/CO-ProvisionToBilling - Amend_Billing-Amend",
+    "OrchestrationItemDefinition/MT-DeProvision Billing - Amend_Billing-Amend",
     "OrchestrationPlanDefinition/Billing-Amend"
 ]

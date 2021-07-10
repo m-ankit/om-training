@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/Installation Callout_Internet Installation",
-    "OrchestrationItemDefinition/Send PartNumber to Provisioning_ERP",
+    "OrchestrationItemDefinition/AT-Send PartNumber to Provisioning_ERP",
+    "OrchestrationItemDefinition/CO-Installation Callout_Internet Installation",
     "OrchestrationPlanDefinition/ERP"
 ]

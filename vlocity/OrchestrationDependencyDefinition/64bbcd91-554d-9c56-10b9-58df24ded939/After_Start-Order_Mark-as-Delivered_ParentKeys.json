@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/Mark as Delivered_Inventory",
-    "OrchestrationItemDefinition/Start Order_Order Journey",
+    "OrchestrationItemDefinition/MS-Start Order_Order Journey",
+    "OrchestrationItemDefinition/MT-Mark as Delivered_Inventory",
     "OrchestrationPlanDefinition/Order Journey"
 ]

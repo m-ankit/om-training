@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/Assetize Order_Order Journey",
-    "OrchestrationItemDefinition/Provision To Network_Network Provisioning",
+    "OrchestrationItemDefinition/AT-Assetize Order_Order Journey",
+    "OrchestrationItemDefinition/CO-Provision To Network_Network Provisioning",
     "OrchestrationPlanDefinition/Network Provisioning"
 ]

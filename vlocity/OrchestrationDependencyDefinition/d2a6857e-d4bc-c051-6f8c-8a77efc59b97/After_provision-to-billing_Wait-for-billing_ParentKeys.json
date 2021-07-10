@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/Update Billing_Billing",
-    "OrchestrationItemDefinition/Wait for Billing_Billing",
+    "OrchestrationItemDefinition/CO-Update Billing_Billing",
+    "OrchestrationItemDefinition/PE-Wait for Billing_Billing",
     "OrchestrationPlanDefinition/Billing"
 ]

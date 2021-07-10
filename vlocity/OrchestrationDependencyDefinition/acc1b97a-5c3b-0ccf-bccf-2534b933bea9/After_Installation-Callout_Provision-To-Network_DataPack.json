@@ -1,9 +1,9 @@
 {
     "%vlocity_namespace%__DependencyItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Internet Installation",
-        "Name": "Installation Callout",
+        "Name": "CO-Installation Callout",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Installation Callout/%vlocity_namespace%__OrchestrationPlanDefinition__c/Internet Installation",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CO-Installation Callout/%vlocity_namespace%__OrchestrationPlanDefinition__c/Internet Installation",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -16,9 +16,9 @@
     "%vlocity_namespace%__GlobalKey__c": "acc1b97a-5c3b-0ccf-bccf-2534b933bea9",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Network Provisioning",
-        "Name": "Provision To Network",
+        "Name": "CO-Provision To Network",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Provision To Network/%vlocity_namespace%__OrchestrationPlanDefinition__c/Network Provisioning",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/CO-Provision To Network/%vlocity_namespace%__OrchestrationPlanDefinition__c/Network Provisioning",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",

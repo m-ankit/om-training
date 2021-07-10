@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/Assetize Order_Order Journey",
-    "OrchestrationItemDefinition/Complete Order_Order Journey",
+    "OrchestrationItemDefinition/AT-Assetize Order_Order Journey",
+    "OrchestrationItemDefinition/MS-Complete Order_Order Journey",
     "OrchestrationPlanDefinition/Order Journey"
 ]

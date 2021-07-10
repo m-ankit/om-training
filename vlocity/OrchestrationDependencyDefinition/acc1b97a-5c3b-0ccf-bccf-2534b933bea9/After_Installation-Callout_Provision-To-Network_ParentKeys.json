@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/Installation Callout_Internet Installation",
-    "OrchestrationItemDefinition/Provision To Network_Network Provisioning",
+    "OrchestrationItemDefinition/CO-Installation Callout_Internet Installation",
+    "OrchestrationItemDefinition/CO-Provision To Network_Network Provisioning",
     "OrchestrationPlanDefinition/Internet Installation"
 ]

@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/Assign Modem_ERP",
-    "OrchestrationItemDefinition/Send PartNumber to Provisioning_ERP",
+    "OrchestrationItemDefinition/AT-Send PartNumber to Provisioning_ERP",
+    "OrchestrationItemDefinition/MT-Assign Modem_ERP",
     "OrchestrationPlanDefinition/ERP"
 ]

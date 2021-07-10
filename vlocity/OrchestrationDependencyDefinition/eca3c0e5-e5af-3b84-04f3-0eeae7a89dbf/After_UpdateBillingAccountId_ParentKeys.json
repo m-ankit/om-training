@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/Update Billing_Billing",
-    "OrchestrationItemDefinition/UpdateBillingAccountId_MaintainBillingAccount",
+    "OrchestrationItemDefinition/AT-UpdateBillingAccountId_MaintainBillingAccount",
+    "OrchestrationItemDefinition/CO-Update Billing_Billing",
     "OrchestrationPlanDefinition/MaintainBillingAccount"
 ]

@@ -1,5 +1,5 @@
 [
-    "OrchestrationItemDefinition/Assign Modem_ERP",
-    "OrchestrationItemDefinition/Start Order_Order Journey",
+    "OrchestrationItemDefinition/MS-Start Order_Order Journey",
+    "OrchestrationItemDefinition/MT-Assign Modem_ERP",
     "OrchestrationPlanDefinition/Order Journey"
 ]
